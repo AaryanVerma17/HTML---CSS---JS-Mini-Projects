@@ -11,7 +11,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 
 | # | Project | Works on / What it does | Live link |
 |---:|---|---|---|
-| 1 | Simple Calculator | Basic calculator UI + JS logic for calculations | [Open](./Simple%20Calculator/index.html) |
+| 1 | Simple Calculator | Basic calculator UI + JS logic for calculations | [Open](https://simplecalculater1.netlify.app/) |
 | 2 | Counter | Counter with increment/decrement functionality | [Open](./Counter/index.html) |
 | 3 | Text Formatter | Formats/updates user text (text tools) | [Open](./Text%20Formatter/index.html) |
 | 4 | Email Validation | Validates email input and shows valid/invalid state | [Open](./Email%20Validation/index.html) |
