@@ -13,7 +13,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 |---:|---|---|---|
 | 1 | Simple Calculator | Basic calculator UI + JS logic for calculations | [Open](https://simplecalculater1.netlify.app/) |
 | 2 | Counter | Counter with increment/decrement functionality | [Open](https://numbercounterproject.netlify.app/) |
-| 3 | Text Formatter | Formats/updates user text (text tools) | [Open](./Text%20Formatter/index.html) |
+| 3 | Text Formatter | Formats/updates user text (text tools) | [Open](https://textformatterproject.netlify.app/) |
 | 4 | Email Validation | Validates email input and shows valid/invalid state | [Open](./Email%20Validation/index.html) |
 | 5 | Digital Clock | Digital time display (clock UI) | [Open](./Digital%20Clock/index.html) |
 | 6 | Browse File Upload | File upload / browse UI | [Open](./Browse%20File%20Upload/index.html) |
