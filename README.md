@@ -26,7 +26,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 13 | Todo List | Todo list with add/remove/mark tasks | [Open](https://todolistsproject13.netlify.app/) |
 | 14 | Emoji Catcher Game | Simple game using emoji catching/clicking | [Open](https://emojicatchergameproject.netlify.app/) |
 | 15 | BookList Project | Book list app (add/select/manage books) | [Open](https://bookslistproject.netlify.app/) |
-| 16 | Typing Game | Typing challenge/game UI | [Open](./Typing%20Game/index.html) |
+| 16 | Typing Game | Typing challenge/game UI | [Open](https://typing-game-project.netlify.app/) |
 | 17 | Shape Clicker Game | Click/tap shapes game with score/timing | [Open](./Shape%20Clicker%20Game/index.html) |
 | 18 | World Counter | Word counter / text statistics tool | [Open](./World%20Counter/index.html) |
 | 19 | Construction Landing Page | Construction-themed landing page | [Open](./Construction%20Landing%20Page/index.html) |
