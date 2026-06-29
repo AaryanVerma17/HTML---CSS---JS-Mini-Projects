@@ -1,4 +1,4 @@
-# HTML CSS JavaScript 100 Projects
+# HTML CSS JavaScript 23 Projects
 
 A collection of small front-end projects built with **HTML, CSS, and vanilla JavaScript**.
 
