@@ -16,7 +16,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 3 | Text Formatter | Formats/updates user text (text tools) | [Open](https://textformatterproject.netlify.app/) |
 | 4 | Email Validation | Validates email input and shows valid/invalid state | [Open](https://emailvalidationproject.netlify.app/) |
 | 5 | Digital Clock | Digital time display (clock UI) | [Open](https://digitalclock5.netlify.app/) |
-| 6 | Browse File Upload | File upload / browse UI | [Open](./Browse%20File%20Upload/index.html) |
+| 6 | Browse File Upload | File upload / browse UI | [Open](https://browsefileupload.netlify.app/) |
 | 7 | Mini Calendar | Calendar UI for date selection/view | [Open](./Mini%20Calendar/index.html) |
 | 8 | Password Strength Bg | Password strength visual/background feedback | [Open](./Password%20Strength%20Bg/index.html) |
 | 9 | Gradient Generator | Generates CSS gradients | [Open](./Gradient%20Generator/index.html) |
