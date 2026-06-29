@@ -33,4 +33,4 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 20 | Foody Landing Page | Food/restaurant landing page | [Open](https://foodylandingpageproject.netlify.app/) |
 | 21 | Meal Finder | Meal lookup/search interface | [Open](https://mealfinderproject.netlify.app/) |
 | 22 | Github Profile Clone | GitHub profile UI clone | [Open](https://githubprofilecloneproject.netlify.app/) |
-| 23 | Wikipedia Clone | Local Wikipedia-style search/clone UI | [Open](./Wikipedia%20Clone/index.html) |
+| 23 | Wikipedia Clone | Local Wikipedia-style search/clone UI | [Open](https://wikipediacloneproject.netlify.app/) |
