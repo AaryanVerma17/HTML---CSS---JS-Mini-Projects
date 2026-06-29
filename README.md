@@ -18,7 +18,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 5 | Digital Clock | Digital time display (clock UI) | [Open](https://digitalclock5.netlify.app/) |
 | 6 | Browse File Upload | File upload / browse UI | [Open](https://browsefileupload.netlify.app/) |
 | 7 | Mini Calendar | Calendar UI for date selection/view | [Open](https://minicalaneder.netlify.app/) |
-| 8 | Password Strength Bg | Password strength visual/background feedback | [Open](./Password%20Strength%20Bg/index.html) |
+| 8 | Password Strength Bg | Password strength visual/background feedback | [Open](https://passwordsstrength.netlify.app/) |
 | 9 | Gradient Generator | Generates CSS gradients | [Open](./Gradient%20Generator/index.html) |
 | 10 | Password Generator | Random password generator | [Open](./Password%20Generator/index.html) |
 | 11 | Box Shadow Generator | Creates CSS box-shadow presets | [Open](./Box%20Shadow%20Generator/index.html) |
