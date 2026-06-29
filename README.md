@@ -24,7 +24,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 11 | Box Shadow Generator | Creates CSS box-shadow presets | [Open](https://boxshadowgeneratorproject.netlify.app/) |
 | 12 | Deciaml To Binary Converter | Converts decimal numbers to binary | [Open](https://decimaltobinaryconvert.netlify.app/) |
 | 13 | Todo List | Todo list with add/remove/mark tasks | [Open](https://todolistsproject13.netlify.app/) |
-| 14 | Emoji Catcher Game | Simple game using emoji catching/clicking | [Open](./Emoji%20Catcher%20Game/index.html) |
+| 14 | Emoji Catcher Game | Simple game using emoji catching/clicking | [Open](https://emojicatchergameproject.netlify.app/) |
 | 15 | BookList Project | Book list app (add/select/manage books) | [Open](./BookList%20Project/index.html) |
 | 16 | Typing Game | Typing challenge/game UI | [Open](./Typing%20Game/index.html) |
 | 17 | Shape Clicker Game | Click/tap shapes game with score/timing | [Open](./Shape%20Clicker%20Game/index.html) |
