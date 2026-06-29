@@ -21,7 +21,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 8 | Password Strength Bg | Password strength visual/background feedback | [Open](https://passwordsstrength.netlify.app/) |
 | 9 | Gradient Generator | Generates CSS gradients | [Open](https://gradiantsgenerator.netlify.app/) |
 | 10 | Password Generator | Random password generator | [Open](https://passwordsgeneratorproject.netlify.app/) |
-| 11 | Box Shadow Generator | Creates CSS box-shadow presets | [Open](./Box%20Shadow%20Generator/index.html) |
+| 11 | Box Shadow Generator | Creates CSS box-shadow presets | [Open](https://boxshadowgeneratorproject.netlify.app/) |
 | 12 | Deciaml To Binary Converter | Converts decimal numbers to binary | [Open](./Deciaml%20To%20Binary%20Converter/index.html) |
 | 13 | Todo List | Todo list with add/remove/mark tasks | [Open](./Todo%20List/index.html) |
 | 14 | Emoji Catcher Game | Simple game using emoji catching/clicking | [Open](./Emoji%20Catcher%20Game/index.html) |
