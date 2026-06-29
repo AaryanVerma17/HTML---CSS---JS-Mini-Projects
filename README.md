@@ -28,7 +28,7 @@ Each project is self-contained. Open the project’s **`index.html`** in your br
 | 15 | BookList Project | Book list app (add/select/manage books) | [Open](https://bookslistproject.netlify.app/) |
 | 16 | Typing Game | Typing challenge/game UI | [Open](https://typing-game-project.netlify.app/) |
 | 17 | Shape Clicker Game | Click/tap shapes game with score/timing | [Open](https://shapeclickergameproject.netlify.app/) |
-| 18 | World Counter | Word counter / text statistics tool | [Open](https://wordscounterproject.netlify.app/) |
+| 18 | Word Counter | Word counter / text statistics tool | [Open](https://wordscounterproject.netlify.app/) |
 | 19 | Construction Landing Page | Construction-themed landing page | [Open](./Construction%20Landing%20Page/index.html) |
 | 20 | Foody Landing Page | Food/restaurant landing page | [Open](./Foody%20Landing%20Page/index.html) |
 | 21 | Meal Finder | Meal lookup/search interface | [Open](./Meal%20Finder/index.html) |
